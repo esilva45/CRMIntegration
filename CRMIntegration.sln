@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRMIntegration", "CRMIntegration\CRMIntegration.csproj", "{89AB221C-DD66-44DC-90F0-31CE4679CAB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89AB221C-DD66-44DC-90F0-31CE4679CAB4}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{89AB221C-DD66-44DC-90F0-31CE4679CAB4}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{89AB221C-DD66-44DC-90F0-31CE4679CAB4}.Debug|Default.ActiveCfg = Debug|Any CPU
+		{89AB221C-DD66-44DC-90F0-31CE4679CAB4}.Debug|Default.Build.0 = Debug|Any CPU
+		{89AB221C-DD66-44DC-90F0-31CE4679CAB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89AB221C-DD66-44DC-90F0-31CE4679CAB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89AB221C-DD66-44DC-90F0-31CE4679CAB4}.Release|Default.ActiveCfg = Release|Any CPU
+		{89AB221C-DD66-44DC-90F0-31CE4679CAB4}.Release|Default.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86EF7CBA-FAB8-4CA6-97BB-C850AE0C28BF}
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+	EndGlobalSection
+EndGlobal
